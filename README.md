@@ -12,3 +12,5 @@ Design-patterns covered:
  - **Structural (ongoing)**
    - Composite design pattern
    - Facade design pattern
+   - Adapter design pattern
+   - Decorator design pattern
